@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "My first post with fastpages",
-            "content": "A title . And some text . General preformatted text: . # Do a thing do_thing() . Python code and output: . #collapse . # this is some demo code def print_numbers(): for i in range(9): print(i) .",
+            "content": "A title . And some text . General preformatted text: . # Do a thing do_thing() . Python code and output: . # this is some demo code def print_numbers(): for i in range(9): print(i) . . For you info R3 D38 of #100DaysOfCode #pythonFixed some bugs in my #Django MSGraph project. Also some more UI adjustments with the help of @tailwindcss.Wrote some tests for the Team Order app in the project.As the project grows, I’m beginning to see the need of some re-structuring 🤓 pic.twitter.com/8K9WePqFyp . &mdash; 𝙹-𝙾 𝙴𝚛𝚒𝚔𝚜𝚜𝚘𝚗 (@Wildvasa) March 9, 2020 –the end .",
             "url": "https://jotest-account.github.io/fastpages/blogging/2020/03/09/My-First-Post.html",
             "relUrl": "/blogging/2020/03/09/My-First-Post.html",
             "date": " • Mar 9, 2020"
