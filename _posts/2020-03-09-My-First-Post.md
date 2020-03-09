@@ -19,10 +19,15 @@ General preformatted text:
 
 Python code and output:
 
-#collapse
 ```python
 # this is some demo code
 def print_numbers():
     for i in range(9):
         print(i)
 ```
+
+{% include info.html text="For you info" %}
+
+{% twitter https://twitter.com/Wildvasa/status/1237050340262006784 %}
+
+--the end
