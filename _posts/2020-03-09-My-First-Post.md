@@ -3,7 +3,7 @@ title: "My first post with fastpages"
 summary: "A summary"
 toc: false
 comments: true
-categories: [fastpages, jupyter]
+
 category: [blogging]
 layout: post
 ---
@@ -19,7 +19,10 @@ General preformatted text:
 
 Python code and output:
 
+#collapse
 ```python
-# Prints '2'
-print(1+1)
+# this is some demo code
+def print_numbers():
+    for i in range(9):
+        print(i)
 ```
