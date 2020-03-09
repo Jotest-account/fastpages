@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "My first post with fastpages",
-            "content": "A title . And some text .",
+            "content": "A title . And some text . General preformatted text: . # Do a thing do_thing() . Python code and output: . # Prints &#39;2&#39; print(1+1) .",
             "url": "https://jotest-account.github.io/fastpages/fastpages/jupyter/blogging/2020/03/09/My-First-Post.html",
             "relUrl": "/fastpages/jupyter/blogging/2020/03/09/My-First-Post.html",
             "date": " • Mar 9, 2020"
